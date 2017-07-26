@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+/*-----------------------------------------------------------
+cart
+------------------------------------------------------------ */
+
+span.cart-tax{
+font-size:13px;
+font-weight:normal;
+}
+
+span.cart-text {
+font-size:11px;
+font-weight:normal;
+}

@@ -1,0 +1,149 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Price Display Change\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: TEMPLX <web@templx.com>\n"
+"Language-Team: TEMPLX <web@templx.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"Language: japanese\n"
+"X-Poedit-KeywordsList: __;_e\n"
+
+msgid "Price Display Change"
+msgstr "価格表示変更"
+
+msgid "I can change pricing by using a template tag."
+msgstr "テンプレートタグを使用する事により価格表示を変更できます。"
+
+msgid "List Price"
+msgstr "定価"
+
+msgid "(Normal Price)"
+msgstr "(通常価格)"
+
+msgid "Sale Price"
+msgstr "売価"
+
+msgid "(Sales Price)"
+msgstr "(販売価格)"
+
+msgid "List of products"
+msgstr "商品一覧"
+
+msgid "Please use it in a product details page."
+msgstr "商品詳細ページでご使用ください。"
+
+msgid ""
+"When I display a list of products in a top page and others, please use it."
+msgstr "トップページやその他で商品一覧を表示する場合にご使用ください。"
+
+msgid "※ Example)"
+msgstr "※例)"
+
+msgid "Cart Page"
+msgstr "カートページ"
+
+msgid "Template tag"
+msgstr "テンプレートタグ"
+
+msgid "←It is recommended that you write here."
+msgstr "←ここに記述する事をお勧めします。"
+
+msgid "Setting"
+msgstr "設定方法"
+
+msgid "General Setting"
+msgstr "基本設定"
+
+msgid "Tax display"
+msgstr "消費税表示"
+
+msgid "Tax treatment"
+msgstr "消費税区分"
+
+msgid "Tax target"
+msgstr "消費税対象"
+
+msgid "Percentage of Consumption tax"
+msgstr "消費税率"
+
+msgid "method of Calculation of the tax"
+msgstr "税計算方法"
+
+msgid "『Tax treatment』"
+msgstr "「消費税区分」"
+
+msgid ""
+"If you choose not to display in the 『Tax display』, it does not appear."
+msgstr "「消費税表示」で表示しないを選択した場合、表示されません。"
+
+msgid "If set to tax, the price will be displayed tax unchanged."
+msgstr "税込に設定した場合、価格は変更されず内税が表示されます。"
+
+msgid ""
+"If set to tax, it will be the price displayed is changed within the tax."
+msgstr "税別に設定した場合、価格が変更され内税が表示されます。"
+
+msgid "Usually $100 (Tax included：$4)"
+msgstr "¥1,000(内税：¥47)"
+
+msgid "Usually $104 (Tax included：$4)"
+msgstr "¥1,050(内税：¥50)"
+
+msgid "If you select the total total amount of money in the 『Tax target』,"
+msgstr "「消費税対象」で総合計金額を選択した場合、"
+
+msgid "and if you have set up a dedicated template tag below cart,"
+msgstr "且つ下記カートに専用テンプレートタグを設置した場合、"
+
+msgid ""
+"you may receive the 『other than the commodity price also requires "
+"consumption tax』."
+msgstr "『商品代金以外にも消費税が必要』が表示されます。"
+
+msgid ""
+"Tax rate that you enter in the 『Percentage of Consumption tax』 will be "
+"reflected."
+msgstr "「消費税率」で入力する税率が反映されます。"
+
+msgid ""
+"Calculation method that you select in the 『method of Calculation of the "
+"tax』 will be reflected."
+msgstr "「税計算方法」で選択する計算方法が反映されます。"
+
+msgid "You want to change the currency symbol"
+msgstr "通貨記号を変更する"
+
+msgid "I make notation"
+msgstr "表記にする"
+
+msgid "$"
+msgstr "¥"
+
+msgid "USD"
+msgstr "円"
+
+msgid "$100"
+msgstr "¥1,000"
+
+msgid "100USD"
+msgstr "1,000円"
+
+msgid "Consumption tax"
+msgstr "消費税"
+
+msgid "tax-included"
+msgstr "税込"
+
+msgid "Tax included"
+msgstr "内税"
+
+msgid "sold out"
+msgstr "売切れ"
+
+msgid "Need consumption tax besides the commodity price."
+msgstr "商品代金以外にも消費税が必要"
